@@ -1,5 +1,5 @@
 var SCRIPT_NAME = "Promotion Request Form - Sheet Script"
-var SCRIPT_VERSION = "v1.4"
+var SCRIPT_VERSION = "v1.4.dev_ajr"
 
 function onOpen(e)                    {PRF.onOpen(e)}
 
@@ -23,11 +23,11 @@ function showCache()                  {PRF.showCache()}
 
 // Triggers
 
-function onFormSubmit(e)             {PRF.onFormSubmit(e)}
-function updateForm(e)               {PRF.updateForm(e)}
+function onFormSubmit(e)              {PRF.onFormSubmit(e)}
+function updateForm(e)                {PRF.updateForm(e)}
 
 // Testing
 
-function dumpConfig()                {PRF.test_dumpConfig()}
-function clearConfig()               {PRF.test_clearConfig()}
-function test()                      {PRF.test()}
+function dumpConfig()                 {PRF.test_dumpConfig()}
+function clearConfig()                {PRF.test_clearConfig()}
+function test()                       {PRF.test()}
