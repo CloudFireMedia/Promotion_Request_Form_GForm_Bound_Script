@@ -7,13 +7,9 @@
       "version": "v4"
     }],
     "libraries": [{
-      "userSymbol": "PL",
-      "libraryId": "1y9ackD7MdSsUkiGd1Au7DvkAgYRn7vkraabnwv12WvIj9YEK1579k48F",
-      "version": "8"
-    }, {
       "userSymbol": "PRF",
       "libraryId": "15o6-r9lZGWRbvJ1ZlU2vFSGdoo1_H2A5a31xN_EgxY0n5P2J3yebN6x7",
-      "version": "5"
+      "version": "7"
     }]
   },
   "exceptionLogging": "STACKDRIVER"
