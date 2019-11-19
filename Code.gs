@@ -1,5 +1,5 @@
 var SCRIPT_NAME = "Promotion_Request_Form_AddOn"
-var SCRIPT_VERSION = "v1.15.1"
+var SCRIPT_VERSION = "v1.15.2"
 
 // Add-on installation
 
